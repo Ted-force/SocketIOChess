@@ -9,5 +9,7 @@ then run <br />
 open browser and navigate to http://localhost:8080 <br/>
 
 ![Room Page](/Images/room page.png)
+![White] (/Images/white.png) <br/>
+![Black] (/Images/black.png) <br />
 
 
